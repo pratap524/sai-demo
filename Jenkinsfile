@@ -3,7 +3,7 @@ pipeline {
 	stages {
 		stage('clone the code'){
 			steps {
-		sh "git clone https://github.com/pratap524/gamatkart2" 
+		sh "git clone https://github.com/pratap524/gamutkart2" 
 		}
 		}
 
